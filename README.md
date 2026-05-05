@@ -1,5 +1,7 @@
 # Team Task Manager
 
+**Live Demo**: [https://teamtaskmanager-etharaai-production.up.railway.app/](https://teamtaskmanager-etharaai-production.up.railway.app/)
+
 Welcome to the Team Task Manager. This is a full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js).
 
 It is designed to help teams stay organized, manage projects, and track tasks without the clutter of heavy enterprise tools. Whether you are an Admin setting up a new project or a Member completing tasks on the Kanban board, this app keeps everything synced, secure, and easy to use.
