@@ -1,10 +1,10 @@
-# Team Task Manager 🚀
+# Team Task Manager 
 
 Hey there! Welcome to the **Team Task Manager**. This is a full-stack web application I built using the MERN stack (MongoDB, Express, React, Node.js). 
 
 It's designed to help teams stay organized, manage projects, and track tasks without the clutter of heavy enterprise tools. Whether you're an Admin setting up a new project or a Member knocking out tasks on the Kanban board, this app keeps everything synced, secure, and easy to use.
 
-## ✨ What's Inside?
+##  What's Inside?
 
 - **Role-Based Access (RBAC)**: 
   - **Admins** run the show. They can create, edit, and delete projects, assign team members, and manage any task.
@@ -14,14 +14,14 @@ It's designed to help teams stay organized, manage projects, and track tasks wit
 - **Live Dashboard**: Get a quick glance at your workload, including a breakdown of tasks by status and a heads-up on anything that's overdue.
 - **Sleek UI**: I went with a modern, glassmorphic design built completely from scratch with Vanilla CSS—no heavy CSS frameworks here!
 
-## 🛠️ Built With
+##  Built With
 
 - **Frontend:** React, React Router, Axios, Lucide React (for those crisp icons), and pure Vanilla CSS.
 - **Backend:** Node.js and Express.
 - **Database:** MongoDB Atlas paired with Mongoose.
 - **Security:** JWT (JSON Web Tokens) for authentication and bcryptjs for keeping passwords safe.
 
-## 🚀 Getting Started
+##  Getting Started
 
 Want to run this locally? Here's how to get it up and running in a few minutes.
 
@@ -66,9 +66,9 @@ Start the React development server:
 npm run dev
 \`\`\`
 
-Boom! 💥 The app should now be running locally at \`http://localhost:5173\`. 
+Boom!  The app should now be running locally at \`http://localhost:5173\`. 
 
-## 🗺️ How it's Structured
+## How it's Structured
 
 If you want to poke around the code, here's a quick map of how I laid things out:
 
@@ -94,7 +94,7 @@ Ethara.AI_Assessment/
     └── package.json
 \`\`\`
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 In case you need to interact directly with the backend:
 
